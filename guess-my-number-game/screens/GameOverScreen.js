@@ -46,9 +46,6 @@ const styles = StyleSheet.create({
     padding: 24,
   },
   image: {
-    // width: deviceWidth<380?150:300,
-    // height: deviceWidth<380?150:300,
-    // borderRadius: deviceWidth<380?75:150,
     marginVertical: 20,
   },
   st: {
